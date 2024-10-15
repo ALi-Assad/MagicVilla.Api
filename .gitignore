@@ -3,6 +3,7 @@ bin/
 obj/
 dist/
 build/
+.vs
 
 # Dependency folders
 node_modules/
